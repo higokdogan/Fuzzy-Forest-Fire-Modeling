@@ -67,8 +67,24 @@ The regression analysis comparing the Fuzzy Logic system's predictions with the 
   <img width="471" height="282" alt="image" src="https://github.com/user-attachments/assets/f6b32718-9594-40f7-b862-953250e2d3e8" />
 </div>
 
----
 
 ## 💻 5. Repository Files & Usage
 
 > ⏳ **Note on Open-Source Availability:** The raw historical datasets, preprocessing scripts, and the core MATLAB `.fis` architecture files are currently being refactored for public open-source sharing. They will be uploaded to this repository shortly.
+
+---
+
+## 📖 6. References & Further Reading
+
+This repository is built upon the foundational research conducted during my M.Sc. studies. If you are interested in the theoretical background or extended applications of this methodology by our research group, please refer to the documents below:
+
+### 🎓 Foundational Thesis (Turkish)
+The complete methodology, mathematical proofs, and Isparta case study details can be found in my Master's thesis (written in Turkish):
+* **Gökdoğan, H. İ. (2022).** *Isparta yöresindeki orman yangınlarının bulanık mantıkla modellenmesi (Fuzzy logic modeling of forest fires in the Isparta region)*. Süleyman Demirel University, Institute of Science. 
+🔗 [View Full Text via YÖK National Thesis Center](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=sELqxhTlFGAjsbjOuuiyCAeGF5J14nOcGpCbAFSNVs1Fg3a_kn4U3fXgchxHiTbT)
+
+### 🔬 Related Work from Our Research Group
+For an extended application of this Fuzzy Logic modeling approach—focusing on the Antalya region—see the following publication by my advisor, Prof. Dr. Ahmet Şahiner, and our research colleagues:
+* **Şahiner, A., Ermiş, T., Karakoyun, M.H. et al. (2023).** *Determining the most effective way of intervention in forest fires with fuzzy logic modeling: the case of Antalya/Türkiye*. Natural Hazards 116, 2269–2282. 
+🔗 [https://doi.org/10.1007/s11069-022-05763-4](https://doi.org/10.1007/s11069-022-05763-4)
+---
